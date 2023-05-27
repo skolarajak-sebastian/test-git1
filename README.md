@@ -5,7 +5,7 @@ Opis-neki-opis
 
 Neki tekst
 
-# Dodati u zajednicki dokument
+# NAMERAN KONFLIKT HEHEHHEHEHEHHEHEHHEHE
 
 - Rad sa konzolom, osnovne komande
 - Listing, change directory, clear
