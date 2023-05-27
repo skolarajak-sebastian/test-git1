@@ -10,3 +10,7 @@ Neki tekst
 - Rad sa konzolom, osnovne komande
 - Listing, change directory, clear
 - Git osnove
+
+# Jso NESTO
+
+itd itd itd itd
