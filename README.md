@@ -14,3 +14,7 @@ Neki tekst
 # Jso NESTO
 
 itd itd itd itd
+
+# IZ BROWSERA DODATO
+
+dodatne izmene
